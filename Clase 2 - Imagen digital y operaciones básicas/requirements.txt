@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pandas
+scipy
+sklearn
+opencv-python
+torch
+scikit-image
+jupyter
+ipykernel
+ipython
